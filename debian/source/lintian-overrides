@@ -1,0 +1,4 @@
+python-pycodestyle source: file-without-copyright-information
+python-pycodestyle source: no-debian-changes
+python-pycodestyle source: source-contains-prebuilt-windows-binary
+python-pycodestyle source: source-package-encodes-python-version
