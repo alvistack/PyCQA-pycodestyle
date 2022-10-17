@@ -1,0 +1,5 @@
+python-pycodestyle (100:2.8.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyCQA/pycodestyle/releases/tag/2.8.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 02 Nov 2021 21:06:44 +0800
