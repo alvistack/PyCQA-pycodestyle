@@ -1,0 +1,5 @@
+python-pycodestyle (100:2.12.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyCQA/pycodestyle/releases/tag/2.12.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 17 Jun 2024 14:25:40 +0800
