@@ -1,0 +1,4 @@
+python3-pycodestyle: copyright-without-copyright-notice
+python3-pycodestyle: initial-upload-closes-no-bugs
+python3-pycodestyle: no-manual-page
+python3-pycodestyle: zero-byte-file-in-doc-directory
