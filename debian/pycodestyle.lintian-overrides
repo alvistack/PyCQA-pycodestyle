@@ -1,0 +1,4 @@
+pycodestyle: copyright-without-copyright-notice
+pycodestyle: initial-upload-closes-no-bugs
+pycodestyle: no-manual-page usr/bin/pycodestyle
+pycodestyle: zero-byte-file-in-doc-directory
