@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+pycodestyle
+python3-pycodestyle
+tmp
